@@ -1,2 +1,2 @@
-## Simple project in Smart Contracts
-> A simple project in Smart Contracts
+## Learning Smart Contracts
+> A simple project in Smart Contracts.
