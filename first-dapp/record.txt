@@ -1,0 +1,33 @@
+0x5D4C7F23E82f43ff15A669e08e37478E694dCD16
+
+[
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "_mood",
+				"type": "string"
+			}
+		],
+		"name": "setMood",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "getMood",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
+
+STP Token contract address: 
+0xf0aC8D96E5c670Deda042E9eCcB08Aee3ae4e1ac
